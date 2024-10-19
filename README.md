@@ -1,6 +1,6 @@
-# DataTable Server-Side with Spring Boot
+# Angular Maven Project
 
-A simple DataTable with Server-Side processing using Spring Boot
+A simple Angular and Maven Project
 
 ## Table of Contents
 
